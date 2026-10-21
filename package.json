@@ -1,0 +1,24 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Zero-void8888888/toDoList#readme",
+  "bugs": {
+    "url": "https://github.com/Zero-void8888888/toDoList/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zero-void8888888/toDoList.git"
+  },
+  "license": "ISC",
+  "author": "Jose Mondragon",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "sqlite3": "^6.0.1"
+  }
+}
